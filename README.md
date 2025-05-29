@@ -46,12 +46,11 @@ The `jpdb-commons.js` library simplifies backend communication. Here's how:
 - [Performance of JsonPowerDB](#-performance-of-jsonpowerdb)
 - [Ease of use of jpdb-commonsjs](#-ease-of-use-of-jpdb-commonsjs)
 - [Release History](#-release-history)
-- [Illustrations](#-illustrations)
 - [Scope of Functionalities](#-scope-of-functionalities)
 - [Examples of Use](#-examples-of-use)
 - [Project Status](#-project-status)
 - [Sources](#-sources)
-- [Other Information](#-other-information)
+
 
 ---
 
